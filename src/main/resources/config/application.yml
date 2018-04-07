@@ -64,6 +64,9 @@ spring:
             client-id: xxx
             client-secret: xxx
 
+        dropbox:
+            client-id: xxx
+            client-secret: xxx
         # jhipster-needle-add-social-configuration
 security:
     basic:
