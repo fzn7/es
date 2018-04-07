@@ -142,3 +142,10 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+
+######################
+# My own
+######################
+.h2.server.properties
+yarn.lock
